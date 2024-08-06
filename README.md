@@ -1,5 +1,5 @@
 # nosql-challenge
-Module 12 homework, databases without using sql
+Module 12 homework, databases without using sql, using MongoPy
 
 ## Instructions 
 
